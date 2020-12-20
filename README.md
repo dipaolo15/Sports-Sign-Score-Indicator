@@ -1,6 +1,6 @@
 # Sports-Sign-Score-Indicator
 
-# This is an <h1> tag
+# Overview <h1> 
 An 8x16 LED sign that will include scrolling text, scoring indicator of favorite NHL/NFL/MLB team, and speaker to play a song when team is scored.
 
 Module:
