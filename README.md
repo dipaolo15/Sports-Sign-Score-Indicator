@@ -1,10 +1,10 @@
 # Sports-Sign-Score-Indicator
 
-# Overview <h1> An 8x16 LED sign that will include scrolling text, scoring indicator of favorite NHL/NFL/MLB team, and speaker to play a song when team is scored.
+# Overview <h1> An 8x16 LED sign that will include scrolling text, scoring indicator of favorite NHL/NFL/MLB team, and speaker to play a song when team scores.
 
 # Components <h1>
 
-# CONTROLLER: <h2>ESP32 is used as the MCU. It controls the LED matrix via I2C, Audio via SP.
+# CONTROLLER: <h2>ESP32 is used as the MCU. It controls the LED matrix via I2C, Audio via SPI.
 
 # PROGRAMMING: <h2>ESP32 code is developed using Arduino IDE (C++) and programmed via USB-UART. USB to UART will be done using CP2102 IC.
 
